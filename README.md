@@ -19,7 +19,7 @@ Soon after the great boon in online payments/ digital payments the frauds in the
 
 ## Distribution of Transaction Types
 
-<img width="1593" alt="Untitled" src="https://user-images.githubusercontent.com/60435870/181423818-61217a4d-c52f-4da5-b46c-55feacc48d97.png">
+<img width="699" alt="img" src="https://user-images.githubusercontent.com/60435870/181424299-33e89eee-ab67-4a7d-b49f-30c2719e50e0.png">
 
 
 ## Flow of the Project:
