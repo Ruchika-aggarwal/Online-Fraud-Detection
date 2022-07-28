@@ -17,6 +17,10 @@ Soon after the great boon in online payments/ digital payments the frauds in the
 9.  newbalanceDest: the new balance of recipient after the transaction
 10.  isFraud: fraud transaction 
 
+## Distribution of Transaction Types
+
+<img width="1593" alt="Untitled" src="https://user-images.githubusercontent.com/60435870/181423818-61217a4d-c52f-4da5-b46c-55feacc48d97.png">
+
 
 
 
