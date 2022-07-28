@@ -44,7 +44,7 @@ After training the model and running it against  the following models, results h
 |----------------|-------------------------------
 |Decision Tree Classifier|`0.997406728674666`            
 |Logistic Regression          |`0.9995049209287997`            
-|Random Forest Classifier          |
+|Random Forest Classifier          |`0.9997689631001065`
 |Naive Bayes          |`0.994422109131144`
 |K-Nearest Neighbours          |``
 
