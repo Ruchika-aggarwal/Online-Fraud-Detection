@@ -24,7 +24,7 @@ Soon after the great boon in online payments/ digital payments the frauds in the
 
 ## Flow of the Project:
 
-mermaid
+```mermaid
 graph LR
 A[Import Libraries] ----> B((Read Data))
 B --> D{Check for null values}
@@ -34,6 +34,7 @@ D --Null values dont exist--> F(Proceed)
 F-->G[EDA]
 G-->H[Model Training]
 H-->I[Model Testing]
+```
 
 ## Results
 
