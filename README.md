@@ -45,8 +45,8 @@ After training the model and running it against  the following models, results h
 |Decision Tree Classifier|`0.997406728674666`            
 |Logistic Regression          |`0.9995049209287997`            
 |Random Forest Classifier          |
-|Naive Bayes          |`-- is en-dash, --- is em-dash`
-|K-Nearest Neighbours          |`-- is en-dash, --- is em-dash`
+|Naive Bayes          |`0.994422109131144`
+|K-Nearest Neighbours          |``
 
 As per the above table it is clear that is winner and gives the best accuracy!!
 
