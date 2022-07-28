@@ -46,7 +46,6 @@ After training the model and running it against  the following models, results h
 |Logistic Regression          |`0.9995049209287997`            
 |Random Forest Classifier          |`0.9997689631001065`
 |Naive Bayes          |`0.994422109131144`
-|K-Nearest Neighbours          |``
 
 As per the above table it is clear that is winner and gives the best accuracy!!
 
